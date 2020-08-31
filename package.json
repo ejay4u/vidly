@@ -1,0 +1,22 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "nodejs api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejay4u/vidly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejay4u/vidly/issues"
+  },
+  "homepage": "https://github.com/ejay4u/vidly#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
